@@ -36,3 +36,9 @@
 
 pip install -r requirements.txt
 
+## Структура проекта
+burrow-detection/
+detect_burrows.py # главный скрипт для распознавания нор
+requirements.txt # зависимости проекта (opencv-python, numpy)
+README.md # документация проекта
+
